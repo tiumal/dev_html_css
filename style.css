@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Outfit', Cascadia Code PL;
+  color: white;
+}
+
+.fundo_base {
+  background-color: darkgrey;
+}
+
+.fundo_preto {
+  background-color: rgb(0, 0, 0);
+}
+
+.codeimg {
+  border-radius: 25px;
+}
+
+.cor_titulo {
+  color: rgb(255, 255, 255);
+}
+
+.cor_paragrafo {
+  color: rgb(201, 219, 252);
+}
+
+.centralizado {
+  text-align: center;
+}
+
+.box {
+  padding: 50px;
+  border-radius: 20px;
+  margin-bottom: 300px;
+}
